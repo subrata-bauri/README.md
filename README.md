@@ -1,11 +1,8 @@
-<h1 align="left">👋 Hi, I'm <a href="https://jigarsable.vercel.app" target="_blank"> Jigar Sable </a></h1>
+<h1 align="left">👋 Hi, I'm <a href="https://jigarsable.vercel.app" target="_blank"> Subrata Bauri </a></h1>
 <!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
 
-- 👨‍💻 Full-Stack Developer based in Pune, India.
-- 📫 How to reach me: [jigarsable21@gmail.com](jigarsable21@gmail.com)
-- 📱 Crafted the [SPPU Prep](https://sppuprep.vercel.app) App, loved by **8000+** savvy learners on the [Play Store](https://play.google.com/store/apps/details?id=com.devcodes.sppuprep)
-- ⭐ Star-studded projects like [Flipkart](https://github.com/jigar-sable/flipkart-mern) and [Instagram](https://github.com/jigar-sable/instagram-mern), shining bright with **800+ stars**
-- 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
+- 👨‍💻 Full-Stack Developer based in Kolkata, India.
+- 📫 How to reach me: [subratabauri2020@gmail.com](subratabauri2020@gmail.com)
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://jigarsable.vercel.app)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
